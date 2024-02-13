@@ -1,0 +1,1 @@
+# Komparasi-Suhu-Sederhana
